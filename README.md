@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinniteshgupta642@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-guptajatin99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/guptajatin99)
+[![LeetCode](https://img.shields.io/badge/LeetCode-JGNode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/JGNode)
+
 
 </div>
 
