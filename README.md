@@ -2,13 +2,12 @@
 
 # 🤖 JATIN GUPTA
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Systems;Data+Science+%7C+Deep+Learning;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Systems;RAG+Systems+%7C+MLOps+%7C+Deep+Learning;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinniteshgupta642@gmail.com)
 
 </div>
 
@@ -22,24 +21,27 @@ class AIEngineer:
         self.name = "Jatin Gupta"
         self.role = "AI Engineer"
         self.location = "India"
-        self.passions = [
-            "Machine Learning",
-            "Deep Learning", 
-            "Computer Vision",
-            "Natural Language Processing"
+        self.specializations = [
+            "RAG Systems & LLM Fine-tuning",
+            "MLOps & Experiment Tracking",
+            "Machine Learning Pipelines",
+            "Computer Vision & NLP"
         ]
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+    def current_focus(self):
+        return {
+            "learning": ["LangGraph", "Advanced RAG Architectures", "LLM Optimization"],
+            "building": ["Production-grade AI Systems", "MLOps Workflows"],
+            "exploring": ["Agentic AI", "Multi-modal Systems"]
+        }
 
 me = AIEngineer()
-me.say_hi()
 ```
 
-🔬 Passionate about creating intelligent systems that solve real-world problems  
-🎯 Specialized in ML/DL model development, deployment, and optimization  
-🌱 Currently exploring advanced AI architectures and MLOps practices  
-⚡ Always eager to collaborate on innovative AI projects
+🔬 Passionate AI Engineer focused on building production-ready intelligent systems  
+🎯 Specialized in RAG architectures, LLM fine-tuning, and end-to-end ML pipelines  
+🌱 Experienced with modern MLOps tools: DVC, MLflow, DagsHub for experiment tracking  
+⚡ Building adaptive AI systems that solve real-world entertainment and business problems
 
 ---
 
@@ -47,13 +49,29 @@ me.say_hi()
 
 <div align="center">
 
+### 🤖 LLM & RAG Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LitGPT](https://img.shields.io/badge/LitGPT-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### 🤖 AI/ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🗂️ Vector Databases & Search
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 MLOps & Experiment Tracking
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-2D9CDB?style=for-the-badge&logo=dagster&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 ### 💾 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -63,15 +81,13 @@ me.say_hi()
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ☁️ Cloud & MLOps
+### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🛢️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,7 +98,6 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
@@ -96,44 +111,60 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🎬 Movie Savvy
-Intelligent movie recommendation system using collaborative filtering and content-based approaches.
+### 🎬 Movie Savvy RAG
+Advanced RAG system with fine-tuned Mistral 7B for entertainment queries. Features FAISS vector store, Reddit integration, and MLflow tracking for embedding optimization.
 
-**Tech:** Python • Pandas • Scikit-learn • Flask
+**Tech:** Mistral 7B • LitGPT • FAISS • MLflow • DVC • Reddit API
+
+**Highlights:**
+- Fine-tuned on 300K instruction pairs
+- Multi-source retrieval (vector DB + Reddit)
+- Embedding model evaluation with MLflow
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Movie_savvy)
 
 </td>
 <td width="50%">
 
-### 🚢 Titanic Survival Prediction
-ML model predicting passenger survival with 82% accuracy using ensemble methods.
+### 🎥 Movie Savvy RAG 2.0
+Adaptive RAG system with Mistral-7B-Instruct-v0.3, dynamic intent classification, and multi-source integration (FAISS, Web Search, YouTube transcripts).
 
-**Tech:** Python • XGBoost • EDA • Feature Engineering
+**Tech:** Mistral-7B-Instruct • FAISS • Tavily API • YouTube API • MLflow
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/codsoft_1)
+**Highlights:**
+- Adaptive retrieval based on query intent
+- YouTube transcript analysis
+- Semantic content scoring & refinement
+- MLflow experiment tracking for optimization
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Movie_Savvy_2.0)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎥 Movie Rating Prediction
-Advanced regression model for predicting movie ratings based on multiple features.
+### 🚗 Uber Demand Prediction
+End-to-end ML pipeline for Uber ride demand forecasting with complete MLOps infrastructure including DVC pipelines and AWS deployment.
 
-**Tech:** Python • Random Forest • Deep Learning
+**Tech:** Python • Scikit-learn • DVC • AWS • Docker • GitHub Actions
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/codsoft_2)
+**Highlights:**
+- Complete MLOps pipeline with DVC
+- AWS deployment with CI/CD
+- Reproducible experiments
+- Docker containerization
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Uber-Demand-Prediction)
 
 </td>
 <td width="50%">
 
-### 💳 Credit Card Fraud Detection
-Anomaly detection system identifying fraudulent transactions with high precision.
-
-**Tech:** Python • Isolation Forest • Neural Networks
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/codsoft_5)
+### 💡 More Projects Coming Soon
+Currently working on:
+- Multi-agent RAG systems with LangGraph
+- LLM fine-tuning experiments
+- Production ML pipelines
 
 </td>
 </tr>
@@ -166,22 +197,6 @@ Anomaly detection system identifying fraudulent transactions with high precision
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-```
-🎓 Machine Learning Specialization - DeepLearning.AI
-🎓 Deep Learning Specialization - DeepLearning.AI  
-🎓 TensorFlow Developer Certificate - TensorFlow
-🏅 CodSoft AI/ML Internship - Completed with Excellence
-🏅 Kaggle Competitions - Active Participant
-```
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -198,30 +213,16 @@ Anomaly detection system identifying fraudulent transactions with high precision
 
 ```mermaid
 graph LR
-    A[AI Engineering] --> B[Large Language Models]
-    A --> C[Computer Vision]
+    A[AI Engineering] --> B[RAG Systems]
+    A --> C[LLM Fine-tuning]
     A --> D[MLOps & Deployment]
-    B --> E[Fine-tuning]
-    B --> F[Prompt Engineering]
-    C --> G[Object Detection]
-    C --> H[Image Segmentation]
-    D --> I[Model Optimization]
+    B --> E[Multi-Agent RAG]
+    B --> F[Adaptive Retrieval]
+    C --> G[LoRA/QLoRA]
+    C --> H[Instruction Tuning]
+    D --> I[Experiment Tracking]
     D --> J[CI/CD for ML]
 ```
-
-</div>
-
----
-
-## 💡 Fun Facts
-
-<div align="center">
-
-🧩 I believe AI is not about replacing humans, but augmenting human capabilities  
-🎮 When not coding, you'll find me exploring new AI research papers  
-☕ Coffee + Code + AI = Perfect Day  
-🌍 Open to collaborating on innovative AI projects worldwide  
-📚 Currently reading: Latest papers on Transformer architectures
 
 </div>
 
@@ -231,26 +232,23 @@ graph LR
 
 <div align="center">
 
-### 💬 I'm always interested in discussing:
-- 🤖 AI/ML project collaborations
-- 🔬 Research opportunities
-- 💼 Career opportunities in AI
+### 💬 Open to discussing:
+- 🤖 RAG systems and LLM architectures
+- 🔬 AI/ML project collaborations
+- 💼 Career opportunities in AI Engineering
 - 🎓 Knowledge sharing and mentorship
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 📫 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta)
+[![Email](https://img.shields.io/badge/Email-jatinniteshgupta642@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinniteshgupta642@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ "The best way to predict the future is to invent it." - Alan Kay
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70"/>
 
