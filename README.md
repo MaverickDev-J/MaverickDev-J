@@ -29,13 +29,6 @@ class AIEngineer:
             "Machine Learning Pipelines",
             "Computer Vision & NLP"
         ]
-        
-    def current_focus(self):
-        return {
-            "learning": ["LangGraph", "Advanced RAG Architectures", "LLM Optimization"],
-            "building": ["Production-grade AI Systems", "MLOps Workflows"],
-            "exploring": ["Agentic AI", "Multi-modal Systems"]
-        }
 
 me = AIEngineer()
 ```
@@ -105,76 +98,6 @@ me = AIEngineer()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Movie Savvy RAG
-Advanced RAG system with fine-tuned Mistral 7B for entertainment queries. Features FAISS vector store, Reddit integration, and MLflow tracking for embedding optimization.
-
-**Tech:** Mistral 7B • LitGPT • FAISS • MLflow • DVC • Reddit API
-
-**Highlights:**
-- Fine-tuned on 300K instruction pairs
-- Multi-source retrieval (vector DB + Reddit)
-- Embedding model evaluation with MLflow
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Movie_savvy)
-
-</td>
-<td width="50%">
-
-### 🎥 Movie Savvy RAG 2.0
-Adaptive RAG system with Mistral-7B-Instruct-v0.3, dynamic intent classification, and multi-source integration (FAISS, Web Search, YouTube transcripts).
-
-**Tech:** Mistral-7B-Instruct • FAISS • Tavily API • YouTube API • MLflow
-
-**Highlights:**
-- Adaptive retrieval based on query intent
-- YouTube transcript analysis
-- Semantic content scoring & refinement
-- MLflow experiment tracking for optimization
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Movie_Savvy_2.0)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 Uber Demand Prediction
-End-to-end ML pipeline for Uber ride demand forecasting with complete MLOps infrastructure including DVC pipelines and AWS deployment.
-
-**Tech:** Python • Scikit-learn • DVC • AWS • Docker • GitHub Actions
-
-**Highlights:**
-- Complete MLOps pipeline with DVC
-- AWS deployment with CI/CD
-- Reproducible experiments
-- Docker containerization
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaverickDev-J/Uber-Demand-Prediction)
-
-</td>
-<td width="50%">
-
-### 💡 More Projects Coming Soon
-Currently working on:
-- Multi-agent RAG systems with LangGraph
-- LLM fine-tuning experiments
-- Production ML pipelines
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -209,26 +132,7 @@ Currently working on:
 
 ---
 
-## 🎯 Current Focus
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[AI Engineering] --> B[RAG Systems]
-    A --> C[LLM Fine-tuning]
-    A --> D[MLOps & Deployment]
-    B --> E[Multi-Agent RAG]
-    B --> F[Adaptive Retrieval]
-    C --> G[LoRA/QLoRA]
-    C --> H[Instruction Tuning]
-    D --> I[Experiment Tracking]
-    D --> J[CI/CD for ML]
-```
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
