@@ -123,42 +123,26 @@ me = AIEngineer()
 
 ---
 
-## 📈 Contribution Graph
+
+
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <em>I am always open to discussing cutting-edge AI, career opportunities, or potential collaborations.</em>
+</p>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickDev-J&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/MaverickDev-J)
+**Current Focus** | **Collaboration**
+:--- | :---
+🚀 RAG & LLM Architectures | 🔬 AI/ML Research & Projects
+🛠️ MLOps & Production Pipelines | 🎓 Mentorship & Knowledge Sharing
+
+<br>
+
+[**Find me on LinkedIn**](https://www.linkedin.com/in/jatin-gupta-3453b8290/) • [**Send an Email**](mailto:jatinniteshgupta642@gmail.com)
 
 </div>
 
----
-
-
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-### 💬 Open to discussing:
-- 🤖 RAG systems and LLM architectures
-- 🔬 AI/ML project collaborations
-- 💼 Career opportunities in AI Engineering
-- 🎓 Knowledge sharing and mentorship
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 📫 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta)
-[![Email](https://img.shields.io/badge/Email-jatinniteshgupta642@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinniteshgupta642@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MaverickDev-J&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
