@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-3453b8290/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinniteshgupta642@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-JGNode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/JGNode)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Maverick006-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Maverick006)
 
 
 </div>
